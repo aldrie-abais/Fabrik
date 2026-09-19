@@ -3,6 +3,7 @@
 .env
 .env.backup
 .env.production
+.env.before-mysql84
 .phpactor.json
 .phpunit.result.cache
 /.fleet
